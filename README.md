@@ -34,3 +34,7 @@ powered with Role Based Access Control system.
   configuration. You can define other required variables also.
 * **db.sql** - Database dump to start with.
 * **index.php** - Home page.
+
+## License
+
+The basic schema framework code is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
