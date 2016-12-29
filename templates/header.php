@@ -1,6 +1,6 @@
 <div class="nav nav-tabs navbar-inner">
 	<div class="span6">
-		<h4>Micro CRM</h4>
+		<h4>logo</h4>
 	</div>
 	<div class="span6">
 		<ul class="inline pull-right" style="margin: 10px 10px 0px 0px;">
