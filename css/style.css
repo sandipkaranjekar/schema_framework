@@ -1,0 +1,106 @@
+.attendance_alignment{
+	float: left; 
+	margin-right: 40px;
+}
+
+.grid_960_system{
+	width: 960px;
+	margin: 0px auto;
+}
+
+/* error message*/
+.error{
+	color: #FF0000;
+	font-size: 15px;
+	font-weight: bold;
+	width: 300px;
+}
+/* star required */
+.star{
+	color: #FF0000;
+}
+.small_alert{
+	width: 960px;
+	margin: 0px auto;
+}
+/* justify */
+.text_justify{
+	text-align: justify;	
+}
+/* modal box */
+.modalbox{
+	-webkit-background-clip: padding-box;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.296875) 0px 3px 7px;
+	background-clip: padding-box;
+	background-color: white;
+	border: 1px solid rgba(0, 0, 0, 0.296875);
+	border-bottom-left-radius: 6px 6px;
+	border-bottom-right-radius: 6px 6px;
+	border-top-left-radius: 6px 6px;
+	border-top-right-radius: 6px 6px;
+	width: 960px;
+	margin: 10px auto;
+	outline: none;
+	
+}
+.modalbox-footer{
+	-webkit-box-shadow: white 0px 1px 0px inset;
+background-color: whiteSmoke;
+border-bottom-left-radius: 6px 6px;
+border-bottom-left-radius: 6px 6px;
+border-bottom-right-radius: 6px 6px;
+border-bottom-right-radius: 6px 6px;
+border-top: 1px solid #DDD;
+border-top-left-radius: 0px 0px;
+border-top-left-radius: 0px 0px;
+border-top-right-radius: 0px 0px;
+border-top-right-radius: 0px 0px;
+margin-bottom: 0px;
+padding: 14px 15px 15px;
+}
+
+/* shadow */
+.shadow_box{
+	padding: 10px; 
+	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 5px 5px 5px #888888;
+   	-webkit-box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+	/*border-radius : 5px;
+  	-moz-border-radius: 5px;*/
+	background: #FFFFFF;
+}
+
+/* transbox */
+.transbox{
+	background-color: transparent;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	padding: 5px;
+	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 5px 5px 5px #888888;
+   	-webkit-box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+/* admin section style */
+.dashboard_icon{
+	font-size: 20px;
+}
+.dashboard_icon_color{
+	color: #585858;
+}
+.dashboard_icon_color:hover{
+	color: #08C;
+	text-decoration: none;
+}
+.aaa{
+	background-color: #F9F9F9;
+}
+.aaa:hover{
+	background-color: #FFFFFF;
+	border-right: 1px solid #08C;
+}
+
+.footer_bg{
+	background: url('../img/bg-head.jpg'); 
+	background-repeat: repeat;
+}
